@@ -7,4 +7,4 @@ This notebook provides a foundational understanding of sentiment analysis using 
 
 **Optimized Sentiment Analysis Notebook:**
 
-This notebook builds upon the basic sentiment analysis by implementing optimization techniques to enhance model performance. It explores advanced preprocessing methods, feature engineering strategies, and hyperparameter tuning for the SVM classifier. Through systematic experimentation and analysis, the notebook aims to improve sentiment classification accuracy and provide insights into effective optimization strategies for real-world applications.
+This notebook builds upon the basic sentiment analysis by implementing optimization techniques to enhance model performance. It explores advanced preprocessing methods, feature engineering strategies, and hyperparameter tuning for the SVM classifier. Through systematic experimentation and analysis, the notebook aims to improve sentiment classification accuracy and provide insights into effective optimization strategies.

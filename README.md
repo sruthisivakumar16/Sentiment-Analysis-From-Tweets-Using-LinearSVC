@@ -1,2 +1,2 @@
-# Sentiment-Analysis-From-Tweets-Using-LinearSVC
-implemented an SVM classifier to interpret the sentiment of tweets on a dataset of approx. 27,000 instances.
+# Sentiment Analysis From Tweets Using LinearSVC
+Implemented an SVM classifier to interpret the sentiment of user tweets on a dataset of approx. 27,000 instances. This analysis involves several steps including data pre-processing, feature extraction, cross-validation, error analysis, and optimization. Through systematic experimentation of each technique, we explore various optimization strategies to improve the classifier model’s performance, aiming to better classify user sentiment.
